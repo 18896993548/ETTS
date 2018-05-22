@@ -1,0 +1,46 @@
+﻿生成启动时间为 2018/3/14 23:38:00。
+     1>项目“D:\Innovation plan\code\ETTS\ETTS\ETTS.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\ETTS.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt ETTS.cpp
+         ETTS.cpp
+     1>d:\innovation plan\code\etts\etts\etts.cpp(83): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\innovation plan\code\etts\etts\etts.cpp(86): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\innovation plan\code\etts\etts\etts.cpp(107): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\innovation plan\code\etts\etts\etts.cpp(111): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\innovation plan\code\etts\etts\etts.cpp(133): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\innovation plan\code\etts\etts\etts.cpp(152): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\innovation plan\code\etts\etts\etts.cpp(174): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\innovation plan\code\etts\etts\etts.cpp(175): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\innovation plan\code\etts\etts\etts.cpp(199): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\innovation plan\code\etts\etts\etts.cpp(201): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\innovation plan\code\etts\etts\etts.cpp(204): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\innovation plan\code\etts\etts\etts.cpp(216): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\innovation plan\code\etts\etts\etts.cpp(217): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\innovation plan\code\etts\etts\etts.cpp(259): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\innovation plan\code\etts\etts\etts.cpp(268): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\innovation plan\code\etts\etts\etts.cpp(270): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\innovation plan\code\etts\etts\etts.cpp(281): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\innovation plan\code\etts\etts\etts.cpp(287): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\innovation plan\code\etts\etts\etts.cpp(289): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\innovation plan\code\etts\etts\etts.cpp(300): warning C4018: “<”: 有符号/无符号不匹配
+       ManifestResourceCompile:
+         所有输出均为最新。
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Innovation plan\code\ETTS\Debug\ETTS.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\ETTS.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\Innovation plan\code\ETTS\Debug\ETTS.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Innovation plan\code\ETTS\Debug\ETTS.lib" /MACHINE:X86 Debug\ETTS.exe.embed.manifest.res
+         Debug\ETTS.obj
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\ETTS.exe.embed.manifest" /manifest Debug\ETTS.exe.intermediate.manifest
+         所有输出均为最新。
+       LinkEmbedManifest:
+         所有输出均为最新。
+         ETTS.vcxproj -> D:\Innovation plan\code\ETTS\Debug\ETTS.exe
+       FinalizeBuildStatus:
+         正在删除文件“Debug\ETTS.unsuccessfulbuild”。
+         正在对“Debug\ETTS.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“D:\Innovation plan\code\ETTS\ETTS\ETTS.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.88

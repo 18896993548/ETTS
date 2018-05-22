@@ -1,0 +1,41 @@
+﻿生成启动时间为 2018/5/22 21:17:40。
+     1>项目“D:\Innovation_plan\code\ETTS\ETTS\ETTS.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Release\ETTS.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt Pre_Processing.cpp
+         Pre_Processing.cpp
+     1>Pre_Processing.cpp(68): warning C4018: “<”: 有符号/无符号不匹配
+     1>Pre_Processing.cpp(79): warning C4018: “<”: 有符号/无符号不匹配
+     1>Pre_Processing.cpp(98): warning C4018: “<”: 有符号/无符号不匹配
+     1>Pre_Processing.cpp(123): warning C4018: “<”: 有符号/无符号不匹配
+     1>Pre_Processing.cpp(148): warning C4018: “<”: 有符号/无符号不匹配
+     1>Pre_Processing.cpp(189): warning C4018: “<”: 有符号/无符号不匹配
+     1>Pre_Processing.cpp(217): warning C4018: “<”: 有符号/无符号不匹配
+     1>Pre_Processing.cpp(219): warning C4018: “<”: 有符号/无符号不匹配
+     1>Pre_Processing.cpp(240): warning C4018: “<”: 有符号/无符号不匹配
+     1>Pre_Processing.cpp(248): warning C4018: “<”: 有符号/无符号不匹配
+     1>Pre_Processing.cpp(250): warning C4018: “<”: 有符号/无符号不匹配
+     1>Pre_Processing.cpp(285): warning C4018: “<”: 有符号/无符号不匹配
+     1>Pre_Processing.cpp(287): warning C4018: “<”: 有符号/无符号不匹配
+     1>Pre_Processing.cpp(299): warning C4018: “<”: 有符号/无符号不匹配
+     1>Pre_Processing.cpp(325): warning C4018: “<”: 有符号/无符号不匹配
+     1>Pre_Processing.cpp(386): warning C4018: “<”: 有符号/无符号不匹配
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Innovation_plan\code\ETTS\Release\ETTS.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Release\ETTS.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\Innovation_plan\code\ETTS\Release\ETTS.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Innovation_plan\code\ETTS\Release\ETTS.lib" /MACHINE:X86 Release\ETTS.obj
+         Release\Global_Affinity.obj
+         Release\Local_Affinity.obj
+         Release\Pre_Processing.obj
+         正在生成代码
+         已完成代码的生成
+         ETTS.vcxproj -> D:\Innovation_plan\code\ETTS\Release\ETTS.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"D:\Innovation_plan\code\ETTS\Release\ETTS.exe;#1" /manifest Release\ETTS.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         正在删除文件“Release\ETTS.unsuccessfulbuild”。
+         正在对“Release\ETTS.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“D:\Innovation_plan\code\ETTS\ETTS\ETTS.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:02.62
